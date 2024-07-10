@@ -3,5 +3,6 @@ public class Test1 {
 
         System.out.println("third msg from new class");
 
+        System.out.println("fourth msg from new class");
     }
 }
